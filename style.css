@@ -4,6 +4,8 @@ body {
 }
 
 header {
+    display: flex;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -26,9 +28,9 @@ header li {
 }
 
 section {
-
+    height: 100vh;
     border: 1px solid black;
-
+    display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
