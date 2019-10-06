@@ -17,7 +17,6 @@ header {
 
 header * {
     display: inline;
-    height: 50px;
 }
 
 header ul {
@@ -52,15 +51,15 @@ section {
 }
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://thevfit.com/wp-content/uploads/2017/02/bgimg3.jpg');
 }
 
 #resume {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.allureseo.com/wp-content/uploads/2018/04/professional-images-for-website-background-4.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('http://itrgworld.com/wp-content/uploads/2019/03/Ridge-Design-Website-Design-Background.jpg');
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i2.wp.com/fancycrave.com/wp-content/uploads/2017/06/How-to-Use-Video-Background-on-Websites.jpg?resize=900%2C599&ssl=1');
 }
 
 #hero h1 {
