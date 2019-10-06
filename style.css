@@ -12,7 +12,7 @@ header {
     right: 0px;
     height: 50px;
     line-height: 50px;
-    background-color: #008080;
+    background-color: #20b2aa;
 }
 
 header * {
@@ -56,11 +56,11 @@ section {
 }
 
 #resume {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i2.wp.com/fancycrave.com/wp-content/uploads/2017/06/How-to-Use-Video-Background-on-Websites.jpg?resize=900%2C599&ssl=1');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://wallpaperplay.com/walls/full/a/6/1/102460.jpg');
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('http://www.seekgif.com/uploads/maroon-background-picture-3.jpeg');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i2.wp.com/fancycrave.com/wp-content/uploads/2017/06/How-to-Use-Video-Background-on-Websites.jpg?resize=900%2C599&ssl=1');
 }
 
 #home h1 {
