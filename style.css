@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     margin-top: 50px;
+    font-family: sans-serif;
 }
 
 header {
@@ -36,8 +37,8 @@ section {
     text-align: center;
 
     background-size: cover;
-    background-position: center center; /* Add this line */
-    background-repeat: no-repeat; /* Add this line */
+    background-position: center center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 .profilepic {
@@ -60,6 +61,23 @@ section {
 
 #contact {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
+}
+
+#hero h1 {
+    font-size: 3em;
+}
+
+section h2 {
+    font-size: 2.5em;
+}
+
+section h3 {
+    font-size: 1.5em;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
 }
 
 footer {
