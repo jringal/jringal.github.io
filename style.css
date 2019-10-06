@@ -48,8 +48,16 @@ section {
     width: 20px;
 }
 
+#hero {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
+}
+
 #resume {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.allureseo.com/wp-content/uploads/2018/04/professional-images-for-website-background-4.jpg');
+}
+
+#contact {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
 }
 
 footer {
