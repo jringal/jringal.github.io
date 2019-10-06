@@ -32,6 +32,11 @@ section {
     justify-content: center;
     align-items: center;
     text-align: center;
+
+    background-size: cover;
+    background-position: center center; /* Add this line */
+    background-repeat: no-repeat; /* Add this line */
+    background-attachment: fixed;
 }
 .profilepic {
 	background: url(https://i.imgur.com/zDex91C.png) 50% 50% no-repeat;
@@ -43,7 +48,7 @@ section {
     width: 20px;
 }
 
-#about {
+#resume {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.allureseo.com/wp-content/uploads/2018/04/professional-images-for-website-background-4.jpg');
 }
 
