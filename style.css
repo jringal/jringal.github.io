@@ -7,7 +7,7 @@ header {
     display: flex;
     position: fixed;
     top: 0;
-    left: 0;
+    left: 50px;
     right: 0;
     height: 150px;
     line-height: 150px;
@@ -50,7 +50,7 @@ section {
     width: 20px;
 }
 
-#hero {
+#about {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
 }
 
